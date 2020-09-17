@@ -1,0 +1,112 @@
+.wrap{
+    width: auto;
+    height: 100%;
+}
+
+.white-first{
+    background-color: white;
+    width: 21%;
+    height: 30%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.white-second{
+    background-color: white;
+    width: 21%;
+    height: 36%;
+    position: absolute;
+    top: 36%;
+    left: 0%;
+}
+
+.white-third{
+    background-color: white;
+    width: 63%;
+    height: 25%;
+    position: absolute;
+    top: 75%;
+    left: 25%;
+}
+
+.white-fourth{
+    background-color: white;
+    width: 8%;
+    height: 10%;
+    position: absolute;
+    top: 75%;
+    left: 25%;
+}
+
+.red{
+    background-color: red;
+    width: 75%;
+    height: 71%;
+    position: absolute;
+    top: 0%;
+    left: 25%;
+}
+
+.blue{
+    background-color: blue;
+    width: 21%;
+    height: 25%;
+    position: absolute;
+    top: 75%;
+    left: 0%;
+}
+
+.yellow{
+    background-color: yellow;
+    width: 8%;
+    height: 11%;
+    position: absolute;
+    top: 89%;
+    left: 92%;
+}
+
+.black-line-first{
+    background-color: black;
+    width: 21%;
+    height: 7%;
+    position: absolute;
+    top: 30%;
+    left: 0%;
+}
+
+.black-line-second{
+    background-color: black;
+    width: 4%;
+    height: 100%;
+    position: absolute;
+    top: 0%;
+    left: 21%;
+}
+
+.black-line-third{
+    background-color: black;
+    width: 100%;
+    height: 4%;
+    position: absolute;
+    top: 71%;
+    left: 0%;
+}
+
+.black-line-fourth{
+    background-color: black;
+    width: 4%;
+    height: 25%;
+    position: absolute;
+    top: 75%;
+    left: 88%;
+}
+
+.black-line-fifth{
+    background-color: black;
+    width: 8%;
+    height: 5%;
+    position: absolute;
+    top: 86%;
+    left: 92%;
+}
