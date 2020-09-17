@@ -40,7 +40,7 @@
 }
 
 .red{
-    background-color: red;
+    background-color: #ea1811;
     width: 75%;
     height: 71%;
     position: absolute;
@@ -49,7 +49,7 @@
 }
 
 .blue{
-    background-color: blue;
+    background-color: #025ab4;
     width: 21%;
     height: 25%;
     position: absolute;
@@ -58,7 +58,7 @@
 }
 
 .yellow{
-    background-color: yellow;
+    background-color: #f5e468;
     width: 8%;
     height: 11%;
     position: absolute;
